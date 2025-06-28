@@ -2,13 +2,13 @@
 
 This project aims to analyze and build predictive models for recurrence of **well-differentiated thyroid cancer** using clinicopathologic features. The dataset is sourced from the [Thyroid Disease Dataset](https://www.kaggle.com/datasets/jainaru/thyroid-disease-data) on Kaggle.
 
-## 📁 Dataset Information
+### Dataset Information
 
 - Duration: Collected over 15 years
 - Follow-up: Each patient tracked for at least 10 years
 - Source: UCI Machine Learning Repository (hosted on Kaggle)
 
-### 📊 Features
+### Features
 
 | Feature               | Description                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
@@ -31,10 +31,10 @@ This project aims to analyze and build predictive models for recurrence of **wel
 | Recurred             | Whether the cancer recurred after treatment (Target Variable)               |
 
 
-#  Objective
+###  Objective
 I tried to use all the thing that I have learn through my MAchine learning course to build a machine learning model that can **predict the recurrence of thyroid cancer** based on historical clinicopathologic features.
 
-# Tools and Technologies
+### Tools and Technologies
 
 - Python
 - Pandas, NumPy
@@ -45,7 +45,7 @@ I tried to use all the thing that I have learn through my MAchine learning cours
 - XGBoost
 
 
-## 🚀 Project Goals
+### 🚀 Project Goals
 
 - Data Visualization & Preprocessing
 - Exploratory Data Analysis (EDA)
